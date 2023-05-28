@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dwija Kakkad.
-- 👀 I’m a interested in neuroscience and statistics.
+- 👀 I’m doing a mathematics major while exploring computational neuroscience and statistics.
 
 
 ## Github stats 📊
