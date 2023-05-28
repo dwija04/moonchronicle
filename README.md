@@ -14,10 +14,10 @@
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+<!--   <summary>Activity Graph 📈</summary>
   <br/>
 
-<a href="https://github.com/moonchronicle/github-readme-activity-graph"><img alt="Dwija's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moonchronicle&theme=github-compact" /></a>
+<a href="https://github.com/moonchronicle/github-readme-activity-graph"><img alt="Dwija's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=moonchronicle&theme=github-compact" /></a> -->
 
 </details>
 
