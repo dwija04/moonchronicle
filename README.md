@@ -20,6 +20,12 @@
 
 </details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pratham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamsahu52&theme=chartreuse-dark&custom_title=Pratham's%20contribution%20graph&hide_border=true" /></a>
+</details>
 
 
 
